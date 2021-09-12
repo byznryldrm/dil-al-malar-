@@ -1,2 +1,2 @@
-# dil-al-malar-
-Python, Java, C# dilleri ile ilgili öğrenim amaçlı çalışmalarım
+# Dil Çalışmalarım
+Python, Java, C# dilleri ile ilgili öğrenim amaçlı çalışmalarım olacaktır. 
